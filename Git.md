@@ -36,9 +36,15 @@ git rm file//删除
 
 ## 5
 
-```
+```c
 git remote add origin git@github.com:songsongtao/learngit.git//管理远程仓库
 git push -u origin master//第一次提交push
 git push origin master//正常提交
+```
+
+## 6
+
+```c
+git clone git@github.com:songsongtao/learngit.git//克隆仓库
 ```
 
